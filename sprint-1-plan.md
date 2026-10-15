@@ -32,3 +32,7 @@ Plan the basic student registration and student listing features.
 
 ## Expected Outcome
 A documented plan for the first sprint.
+## Review Notes
+- Sprint goal documented.
+- Tasks and schedule listed.
+- Further implementation and testing are pending.
